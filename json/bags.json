@@ -1,0 +1,77 @@
+[
+    {
+        "bags":[
+            {
+                "name_0":"back bag",
+                "gender_0":"male",
+                "price_0":"374 EGP",
+                "img_0":"images/jansport-bags.jpg",
+                "piece_0":2
+            },
+            {
+                "name_1":"new back bag",
+                "gender_1":"male",
+                "price_1":"320 EGP",
+                "img_1":"images/new-bags.jpg",
+                "piece_1":3
+            },
+            {
+                "name_2":"back bag-superbreak",
+                "gender_2":"male",
+                "price_2":"611 EGP",
+                "img_2":"images/jansport-plus.jpg",
+                "piece_2":2
+            },
+            {
+                "name_3":"back bag,one hand",
+                "gender_3":"both",
+                "price_3":"110 EGP",
+                "img_3":"images/one-hand-bags.jpg",
+                "piece_3":5
+            },
+            {
+                "name_4":"back bag",
+                "gender_4":"female",
+                "price_4":"340 EGP",
+                "img_4":"images/woman1-bags.jpg",
+                "piece_4":4
+            },
+            {
+                "name_5":"back bag",
+                "gender_5":"both",
+                "price_5":"247 EGP",
+                "img_5":"images/both-bags.jpg",
+                "piece_5":1
+            },
+            {
+                "name_6":"back bag-biaowang",
+                "gender_6":"male",
+                "price_6":"198 EGP",
+                "img_6":"images/biaowang-bags.jpg",
+                "piece_6":5
+            },
+            {
+                "name_7":"back bag jay-woman",
+                "gender_7":"female",
+                "price_7":"550 EGP",
+                "img_7":"images/jaya-woman-bags.jpg",
+                "piece_7":3
+            },
+            {
+                "name_8":"back bag",
+                "gender_8":"female",
+                "price_8":"300 EGP",
+                "img_8":"images/woman2-bags.jpg",
+                "piece_8":1
+            },
+            {
+                "name_9":"back bag",
+                "gender_9":"female",
+                "price_9":"290 EGP",
+                "img_9":"images/woman3-bags.jpg",
+                "piece_9":7
+            }
+        ]
+    }
+    
+]

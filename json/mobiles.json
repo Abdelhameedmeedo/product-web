@@ -1,0 +1,153 @@
+[
+    {
+        "mobiles":[
+            {
+                "company_0":"Samsung",
+                "model_0":"Galaxy-A10s",
+                "price_0":"1,899 EGP",
+                "piece_0":2,
+                "color_0":"red,blue"
+            },
+            {
+                "company_1":"Samsung",
+                "model_1":"Galaxy-A21s",
+                "price_1":"3,244 EGP",
+                "piece_1":1,
+                "color_1":"blue"
+            },
+            {
+                "company_2":"Samsung",
+                "model_2":"Galaxy-A11",
+                "price_2":"2,425 EGP",
+                "piece_2":2,
+                "color_2":"silver,blue"
+            },
+            {
+                "company_3":"Samsung",
+                "model_3":"Galaxy-A71",
+                "price_3":"6,639 EGP",
+                "piece_3":1,
+                "color_3":"beige"
+            },
+            {
+                "company_4":"Samsung",
+                "model_4":"Galaxy-A51",
+                "price_4":"4,570 EGP",
+                "piece_4":1,
+                "color_4":"silver"
+            },
+            {
+                "company_5":"Samsung",
+                "model_5":"Galaxy-M31",
+                "price_5":"4,700 EGP",
+                "piece_5":1,
+                "color_5":"red"
+            },
+            {
+                "company_6":"Samsung",
+                "model_6":"Galaxy-Note20",
+                "price_6":"16,499 EGP",
+                "piece_6":2,
+                "color_6":"silver"
+            },
+            {
+                "company_7":"Apple",
+                "model_7":"iphone 5",
+                "price_7":"3,699 EGP",
+                "piece_7":3,
+                "color_7":"silver,2-black,"
+            },
+            {
+                "company_8":"Apple",
+                "model_8":"iphone 5s",
+                "price_8":"5,999 EGP",
+                "piece_8":1,
+                "color_8":"black"
+            },
+            {
+                "company_9":"Apple",
+                "model_9":"iphone 6",
+                "price_9":"9,099 EGP",
+                "piece_9":5,
+                "color_9":"2-beige,3-black"
+            },
+            {
+                "company_10":"Apple",
+                "model_10":"iphone 6 plus",
+                "price_10":"9,999 EGP",
+                "piece_10":1,
+                "color_10":"black"
+            },
+            {
+                "company_11":"Apple",
+                "model_11":"iphone 6s",
+                "price_11":"9,989 EGP",
+                "piece_11":2,
+                "color_11":"white"
+            },
+            {
+                "company_12":"Apple",
+                "model_12":"iphone 6s plus",
+                "price_12":"14,199 EGP",
+                "piece_12":6,
+                "color_12":"3-silver,2-black,beige"
+            },
+            {
+                "company_13":"Apple",
+                "model_13":"iphone 7",
+                "price_13":"13,999 EGP",
+                "piece_13":2,
+                "color_13":"black"
+            },
+            {
+                "company_14":"Huawie",
+                "model_14":"P8",
+                "price_14":"5,000 EGP",
+                "piece_14":2,
+                "color_14":"pink"
+            },
+            {
+                "company_15":"Huawie",
+                "model_15":"Y9a",
+                "price_15":"4,349 EGP",
+                "piece_15":3,
+                "color_15":"brown"
+            },
+            {
+                "company_16":"Huawie",
+                "model_16":"Y9s",
+                "price_16":"4,400 EGP",
+                "piece_16":1,
+                "color_16":"blue"
+            },
+            {
+                "company_17":"Huawie",
+                "model_17":"Nova 7",
+                "price_17":"6,819 EGP",
+                "piece_17":4,
+                "color_17":"2-blue,2-white"
+            },
+            {
+                "company_18":"Huawie",
+                "model_18":"Y6p",
+                "price_18":"2,450 EGP",
+                "piece_18":5,
+                "color_18":"4-slight-blue,1-black"
+            },
+            {
+                "company_19":"Huawie",
+                "model_19":"Y7a",
+                "price_19":"2,960 EGP",
+                "piece_19":2,
+                "color_19":"blue"
+            },
+            {
+                "company_20":"Huawie",
+                "model_20":"Y6 prime 2019",
+                "price_20":"2,298 EGP",
+                "piece_20":1,
+                "color_20":"red"
+            }
+        ]
+    }
+]

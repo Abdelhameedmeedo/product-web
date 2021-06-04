@@ -1,0 +1,56 @@
+[
+    {
+        "food":[
+            {
+                "name_0":"حواوشى",
+                "img_0":"images/hwawshi-food.jpg",
+                "country_0":"Egypt"
+            },
+            {
+                "name_1":"بيتزا",
+                "img_1":"images/pizza-food.jpg",
+                "country_1":"italy"
+            },
+            {
+                "name_2":"طعمية",
+                "img_2":"images/tamia-food.jpg",
+                "country_2":"Egypt"
+            },
+            {
+                "name_3":"الكسكس المغربي",
+                "img_3":"images/kuskus-food.jpg",
+                "country_3":"morocco"
+            },
+            {
+                "name_4":"شباكية",
+                "img_4":"images/chebakia-food.png",
+                "country_4":"morocoo"
+            },
+            {
+                "name_5":"يرجر",
+                "img_5":"images/burger-food.jpg",
+                "country_5":"europe"
+            },
+            {
+                "name_6":"سمك محمر",
+                "img_6":"images/fish.jpg",
+                "country_6":"Egypt"
+            },
+            {
+                "name_7":"ملوخية",
+                "img_7":"images/mlokhia-food.jpg",
+                "country_7":"Egypt"
+            },
+            {
+                "name_8":"كشري",
+                "img_8":"images/coshary-food.jpg",
+                "country_8":"Egypt"
+            },
+            {
+                "name_9":"فول مدمس",
+                "img_9":"images/beans-food.jpg",
+                "country_9":"Egypt"
+            }
+        ]
+    }
+]
